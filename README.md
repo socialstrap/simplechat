@@ -1,5 +1,6 @@
-# simplechat
-SocialStrap - SimpleChat addon
+# SocialStrap - SimpleChat addon
+
+http://www.socialstrap.net
 
 Native SocialStrap group chat / shoutbox. 
 
