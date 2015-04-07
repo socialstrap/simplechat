@@ -1,0 +1,2 @@
+# simplechat
+SocialStrap - SimpleChat addon
